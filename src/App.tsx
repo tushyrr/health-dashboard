@@ -170,7 +170,7 @@ export default function HealthDashboard() {
   
   return (
     <div className="flex flex-col w-full min-h-screen bg-gray-50 p-4">
-      <h1 className="text-2xl font-bold text-center mb-4">Health Dashboard</h1>
+      <h1 className="text-2xl font-bold text-center mb-4">Maisara's Monthly progress report</h1>
       
       {/* Tab Navigation */}
       <div className="flex bg-white rounded-lg shadow mb-4">
